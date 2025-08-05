@@ -5,4 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 alpine
-maven:3.8.6-jdk-8-alpine
+chainguard/jdk:latest
