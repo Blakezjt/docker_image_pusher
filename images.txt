@@ -6,4 +6,5 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 alpine
 java
-openjdk
+openjdk:26-oraclelinux8
+
