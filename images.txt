@@ -7,4 +7,5 @@
 alpine
 java
 openjdk:26-oraclelinux8
+maven:latest
 
